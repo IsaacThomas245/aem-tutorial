@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
+- Preview: [https://main--{repo}--{owner}.aem.page/](https://main--aem-tutorial--isaacthomas245.aem.page/)
 - Live: https://main--{repo}--{owner}.aem.live/
 
 ## Documentation
